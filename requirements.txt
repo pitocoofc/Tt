@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+transformers
+torch --index-url https://download.pytorch.org/rls/cu118 # Versão CPU pra economizar espaço
+sacremoses
